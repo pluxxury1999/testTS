@@ -1,0 +1,7 @@
+.wrapper {
+    @apply w-screen h-screen flex justify-center items-center;
+}
+
+.usersContainer {
+    @apply w-3/5 flex justify-center items-center flex-wrap gap-7 text-center;
+}
