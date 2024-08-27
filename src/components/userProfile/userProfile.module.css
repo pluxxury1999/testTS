@@ -1,0 +1,7 @@
+.wrapper {
+    @apply w-screen h-screen flex justify-center py-4
+}
+
+.profileBody {
+    @apply m-auto w-3/5 flex justify-center
+}

@@ -11,3 +11,10 @@ export interface IUser {
     username: string;
     email: string;
 };
+
+export interface IUserExtended extends IUser {
+    address: object,
+    phone: string,
+    website: string,
+    company: object
+}
